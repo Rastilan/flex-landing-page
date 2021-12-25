@@ -1,0 +1,20 @@
+.header,
+.footer,
+.sectionone {
+    background-color: #1F2937;
+}
+
+.sectiononetitle {
+    font-size: 48px;   
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.sectiontwotitle{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.headerlogo{
+    font-size: 24px;
+    color: #f9faf8;
+}
