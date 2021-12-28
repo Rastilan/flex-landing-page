@@ -54,6 +54,7 @@ button{
 }
 .sectiononeleft{
     max-width: 40%;
+    padding: 30px;
 }
 .sectiononetitle {
     font-size: 48px;   
@@ -138,11 +139,19 @@ button{
 .sectionfour{
     display: flex;
     justify-content: center;
+    color: white;
 }
 .bluebox{
     background-color: #3882F6;
     width: 50%;
+    margin: 100px;
+    padding: 50px;
+    border-radius: 8px;
 
+}
+.sectionfourcall{
+    font-size: 22px;
+    font-weight: bold;
 }
 .copyright{
     color: white;
