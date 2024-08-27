@@ -84,20 +84,7 @@ git clone https://github.com/Rastilan/flex-landing-page
 ```sh
 cd flex-landing-page
 ```
-
-3. Install the dependencies:
-
-```sh
-> INSERT-INSTALL-COMMANDS
-```
-
-###  Running flex-landing-page
-
-Use the following command to run flex-landing-page:
-
-```sh
-> INSERT-RUN-COMMANDS
-```
+3. Open the HTML file in a browser
 
 
 ---
